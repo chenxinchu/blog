@@ -99,5 +99,5 @@ theme: dual
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: git@47.101.154.163:/var/repo/blog/blog.git
+  repo: git@47.101.154.163:/root/blog_git/blog.git
   branch: master
